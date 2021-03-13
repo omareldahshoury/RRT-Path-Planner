@@ -1,5 +1,5 @@
 # RRT-Path-Planner
-This work was developed as part of the requirements to pass "Modern Robotics: Mechanics, Planning, and Control Specialization" offered on Coursera by Kevin Lynch.
+This work was developed as part of the requirements to complete "Modern Robotics: Mechanics, Planning, and Control Specialization" offered on Coursera by Kevin Lynch.
 
 An RRT path planner aglorithm was used to traverse a robot through a work space including obstacles. The position, number, and size of obstacles are taken as an input through the "obstacles.csv" file.
 
